@@ -1,0 +1,5 @@
+/* Anything that would be true across the entire domain */
+
+* {
+  box-sizing: border-box;
+}
